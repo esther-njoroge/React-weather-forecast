@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+}
+.heading{
+    color: rgb(91, 91, 228);
+}
+.search{
+    border: none;
+}
+.landing-page{
+    height: 400px;
+    width: 1500px;
+    border-radius: 30px;
+}
